@@ -34,8 +34,6 @@ print('connection closed')
 server:
 
 ```
-DARIO G
-212222230027
 import socket 
 port = 60000 
 s = socket.socket() 
